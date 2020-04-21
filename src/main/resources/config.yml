@@ -1,5 +1,0 @@
-Bot:
-  Token: "sikes"
-  Presence:
-    Type: "WATCHING"
-    Text: "over tickets"
