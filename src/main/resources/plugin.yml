@@ -1,0 +1,6 @@
+name: SnowyAssistant
+version: ${project.version}
+main: io.github.reflxction.snowy.platform.BukkitPlatformAdapter
+depend: [BukkitJSON, BotBank]
+authors: [Reflxction]
+description: An intelligent Discord bot, designed for assisting and maintaining automation in Discord servers
